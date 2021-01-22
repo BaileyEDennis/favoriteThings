@@ -1,0 +1,13 @@
+C:\Users\baile\source\repos\YourFavoriteThings\YourFavoriteThings\bin\Debug\netcoreapp3.1\YourFavoriteThings.exe
+C:\Users\baile\source\repos\YourFavoriteThings\YourFavoriteThings\bin\Debug\netcoreapp3.1\YourFavoriteThings.deps.json
+C:\Users\baile\source\repos\YourFavoriteThings\YourFavoriteThings\bin\Debug\netcoreapp3.1\YourFavoriteThings.runtimeconfig.json
+C:\Users\baile\source\repos\YourFavoriteThings\YourFavoriteThings\bin\Debug\netcoreapp3.1\YourFavoriteThings.runtimeconfig.dev.json
+C:\Users\baile\source\repos\YourFavoriteThings\YourFavoriteThings\bin\Debug\netcoreapp3.1\YourFavoriteThings.dll
+C:\Users\baile\source\repos\YourFavoriteThings\YourFavoriteThings\bin\Debug\netcoreapp3.1\YourFavoriteThings.pdb
+C:\Users\baile\source\repos\YourFavoriteThings\YourFavoriteThings\obj\Debug\netcoreapp3.1\YourFavoriteThings.csprojAssemblyReference.cache
+C:\Users\baile\source\repos\YourFavoriteThings\YourFavoriteThings\obj\Debug\netcoreapp3.1\YourFavoriteThings.AssemblyInfoInputs.cache
+C:\Users\baile\source\repos\YourFavoriteThings\YourFavoriteThings\obj\Debug\netcoreapp3.1\YourFavoriteThings.AssemblyInfo.cs
+C:\Users\baile\source\repos\YourFavoriteThings\YourFavoriteThings\obj\Debug\netcoreapp3.1\YourFavoriteThings.csproj.CoreCompileInputs.cache
+C:\Users\baile\source\repos\YourFavoriteThings\YourFavoriteThings\obj\Debug\netcoreapp3.1\YourFavoriteThings.dll
+C:\Users\baile\source\repos\YourFavoriteThings\YourFavoriteThings\obj\Debug\netcoreapp3.1\YourFavoriteThings.pdb
+C:\Users\baile\source\repos\YourFavoriteThings\YourFavoriteThings\obj\Debug\netcoreapp3.1\YourFavoriteThings.genruntimeconfig.cache
